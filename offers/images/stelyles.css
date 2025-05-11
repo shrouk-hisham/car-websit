@@ -1,0 +1,15 @@
+.carousel.slide img{
+
+
+ /* object-fit: contain;  */
+ border: 3px  solid rgb(56, 55, 55);
+ border-right: 0px;
+ border-left: 0px;
+ height: 600px;
+ 
+}
+.carousel.slide{
+   grid-template-columns:4;
+   grid-template-rows: 1;
+
+    }
