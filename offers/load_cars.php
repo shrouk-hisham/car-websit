@@ -42,8 +42,8 @@ while($row = $result->fetch_assoc()) {
                     <span class="old__price"><p>'.$row['old_price'].'</p></span>
                 </div>
                 <div class="book">
-                    <a href="sell.html">Sell Now <span><i class="ri-arrow-right-line"></i></span></a>
-                    <a href="book.html"><span>Book Now</span><span><i class="ri-arrow-right-line"></i></span></a>
+                    <a href="../sell.html">Sell Now <span><i class="ri-arrow-right-line"></i></span></a>
+                    <a href="../book.html"><span>Book Now</span><span><i class="ri-arrow-right-line"></i></span></a>
                 </div>
             </div>
         </div>
